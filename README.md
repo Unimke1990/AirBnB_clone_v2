@@ -19,11 +19,11 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [License](#license)
 
 ## Environment
-This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
-* Access AirBnb directory: `cd AirBnB_clone`
+* Clone this repository: `git clone "https://github.com/marylizkarumba/AirBnB_clone_v2.git"`
+* Access AirBnb directory: `cd AirBnB_clone_v2`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
@@ -129,7 +129,7 @@ TestBaseModel class:
 
 ## Examples of use
 ```
-vagrantAirBnB_clone$./console.py
+vagrantAirBnB_clone_v2$./console.py
 (hbnb) help
 
 Documented commands (type help <topic>):
@@ -154,9 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Maryliz Karumba - [Github](https://github.com/marylizkarumba)   
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
